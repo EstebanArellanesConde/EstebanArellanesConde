@@ -22,9 +22,9 @@
 │   $ whoami                                                   │
 │                                                              │
 │   Esteban Arellanes                                          │
-│   Computer Engineering @ UNAM                               │
+│   Computer Engineering @ UNAM                                │
 │                                                              │
-│   Interested in building, understanding and breaking        │
+│   Interested in building, understanding and breaking         │
 │   systems.                                                   │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
