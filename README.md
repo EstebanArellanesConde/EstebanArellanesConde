@@ -80,15 +80,6 @@ currently_exploring:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" alt="Raspberry Pi"/>
 </p>
 
-### Security
-
-```text
-Nmap · Wireshark · Burp Suite · Metasploit
-SQLMap · Gobuster · ffuf · Hydra
-```
-
----
-
 ## 🚀 Selected Work
 
 <table>
