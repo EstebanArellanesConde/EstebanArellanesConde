@@ -16,20 +16,6 @@
 
 <br>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   $ whoami                                                   │
-│                                                              │
-│   Esteban Arellanes                                          │
-│   Computer Engineering @ UNAM                                │
-│                                                              │
-│   Interested in building, understanding and breaking         │
-│   systems.                                                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
 ## `./about`
 
 ```yaml
@@ -178,10 +164,10 @@ and application development.
 <!--/p-->
 ---
 
-<p align="center">
-  <i>facta non verba.</i>
-</p>
+<!--p align="center"-->
+  <!--i>facta non verba.</i-->
+<!--/p-->
 
-<p align="center">
+<p align="center"-->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,50:0f172a,100:020617" />
 </p>
